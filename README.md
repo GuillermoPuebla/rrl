@@ -1,6 +1,6 @@
 # Learning Relational Rules from Rewards
 
-Codebase for the paper [Learning Relational Rules from Rewards](https://arxiv.org/).
+Codebase for the paper [Learning Relational Rules from Rewards](https://arxiv.org/abs/2203.13599).
 
 The `train_and_test.py` script allows to reproduce the primary results in the paper. The script requires three arguments:
 1. Game name. Either 'Breakout', 'Pong' or 'DemmonAttack'

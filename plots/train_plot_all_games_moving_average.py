@@ -8,7 +8,7 @@ import seaborn.objects as so
 
 
 #mpl.rcParams['savefig.facecolor'] = "FAFAFA"
-window_divider = 20
+window_divider = 12
 min_periods_divider = 50
 
 df = pd.read_csv(f"datasets/train_data_by_episode_cumulative_return_full.csv", index_col=0)

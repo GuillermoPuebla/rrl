@@ -1,4 +1,4 @@
-# Learning Relational Rules from Rewards
+# Learning Rules from Rewards
 
 Codebase for the paper [Learning Rules from Rewards](https://arxiv.org/abs/2203.13599).
 
